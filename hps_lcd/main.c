@@ -22,7 +22,6 @@
 // SOFTWARE.
 //------------------------------------------------------------------------------------//
 
-
 #include "terasic_os_includes.h"
 #include "LCD_Lib.h"
 #include "lcd_graphic.h"
