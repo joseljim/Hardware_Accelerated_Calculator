@@ -62,6 +62,6 @@ The testbench made for the simulation included the system’s and the PS2 clock,
 
 ## Video
 
-Project demostration [Youtube video](https://youtu.be/NXK6miYugR0)
+Project demostration [Youtube video](https://youtu.be/3AbpJb1HGWQ)
 
 
