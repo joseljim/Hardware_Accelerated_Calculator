@@ -1,4 +1,4 @@
-# SOC Hardware Accelerated Calculator
+# SOC Hardware Accelerated Calculator (11/2020)
 
 SOC Hardware Accelerated Calculator implemented using a PS2 keyboard and an Altera DE10 Standard board. This calculator is divided into two parts. 
 First, on the FPGA side which had a decoder for the keyboard where the user inputs were subsequently processed to carry out the corresponding 
